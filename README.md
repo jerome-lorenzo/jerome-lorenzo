@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerome Lorenzo</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
-- 🌱 I’m currently learning **React.js, Express.js, Next.js**
+- 🌱 I’m currently learning **React.js,Typescript, Express.js, Next.js**
 
 - 📫 How to reach me **jlorenzo1259@gmail.com**
 
