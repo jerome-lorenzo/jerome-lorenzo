@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jerome Lorenzo
-======================================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-Full-stack developer
---------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jerome+Lorenzo!;" />
+</h1>
 
-I am a Full-Stack Developer with a broad skill set spanning various programming languages, frameworks, and technologies.
+<h4 align="center">I am a Full-Stack Developer with a broad skill set spanning various programming languages, frameworks, and technologies.</h4>
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jlorenzo1259@gmail.com](mailto:jlorenzo1259@gmail.com)
