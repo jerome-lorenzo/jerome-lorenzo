@@ -9,7 +9,7 @@ I am a Full-Stack Developer with a broad skill set spanning various programming 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jlorenzo1259@gmail.com](mailto:jlorenzo1259@gmail.com)
 * 🧠  I'm learning Node.js, Express.js, React.js & Typescript
-* 🤝  I'm open to collaborating on any project.
+* 🤝  I'm open to collaborating on any project
 
 ### Skills
 
