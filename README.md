@@ -20,18 +20,19 @@
 
 
 ### Socials
-
 <p align="left"> <a href="https://codesandbox.io/u/jrome12594" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/jeromelorenzo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/jerome4065" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/jrome125" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jerome-lorenzo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/JeromeLorenzo13" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<b>My Stats</b>
-
-<a href="http://www.github.com/jerome-lorenzo"><img src="https://github-readme-stats.vercel.app/api?username=jerome-lorenzo&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="jerome-lorenzo's GitHub stats" /></a>
-
-<a href="http://www.github.com/jerome-lorenzo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jerome-lorenzo&stroke=14b8a6&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
 ### My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jerome-lorenzo/jerome-lorenzo/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jerome-lorenzo/jerome-lorenzo/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
+
+
+### My Stats
+<div style="display: flex; flex-direction: row;">
+    <a href="http://www.github.com/jerome-lorenzo"><img src="https://github-readme-stats.vercel.app/api?username=jerome-lorenzo&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="jerome-lorenzo's GitHub stats" /></a>
+    <a href="http://www.github.com/jerome-lorenzo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jerome-lorenzo&stroke=14b8a6&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+</div>
