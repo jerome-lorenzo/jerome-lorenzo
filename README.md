@@ -11,7 +11,7 @@
 * 🧠  I'm learning Node.js, Express.js, React.js & Typescript
 * 🤝  I'm open to collaborating on any project
   
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="310" />
 
 <h4>Skills</h4>
 <p align="left">
@@ -27,7 +27,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jerome-lorenzo/jerome-lorenzo/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
-
 
 <h4>My Stats</h4>
 <div style="display: flex; flex-direction: row;">
