@@ -22,6 +22,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       
+      - name: Setup git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
       # generates a snake game from a github user (jerome-lorenzo) contributions graph, output a svg animation at dist/
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
