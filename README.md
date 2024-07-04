@@ -29,8 +29,9 @@
 
 <a href="http://www.github.com/jerome-lorenzo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jerome-lorenzo&stroke=14b8a6&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<div align="left">
-  <h4>My Contributions</h4>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
+### My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jerome-lorenzo/jerome-lorenzo/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jerome-lorenzo/jerome-lorenzo/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
