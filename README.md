@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jlorenzo1259@gmail.com](mailto:jlorenzo1259@gmail.com)
-* 🧠  I'm learning Node.js, Express.js, React.js & Typescript
+* 🧠  I'm learning Express.js, React.js & Typescript
 * 🤝  I'm open to collaborating on any project
   
 <!-- <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="310" /> -->
