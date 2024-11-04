@@ -93,4 +93,6 @@
     <a href="http://www.github.com/jerome-lorenzo">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-lorenzo&layout=compact&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="jerome-lorenzo's Top Languages" />
     </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jerome-lorenzo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
 </div>
