@@ -92,5 +92,6 @@
     </a>
   <a href="http://www.github.com/jerome-lorenzo">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-lorenzo&layout=compact" alt="top lang" />
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-lorenzo&layout=pie)](https://github.com/jerome-lorenzo/github-readme-stats)
+
 </div>
