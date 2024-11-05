@@ -91,7 +91,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jerome-lorenzo&show_icons=true&count_private=true&hide=prs,contribs&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="jerome-lorenzo's GitHub stats" />
     </a>
   <a href="http://www.github.com/jerome-lorenzo">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-lorenzo&layout=compact" alt="top lang" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-lorenzo&layout=pie)](https://github.com/jerome-lorenzo/github-readme-stats)
+        <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jerome-lorenzo&layout=pie)](https://github.com/jerome-lorenzo/github-readme-stats) alt="top lang" />
+
 
 </div>
