@@ -8,7 +8,7 @@
 
 - 🌍  I'm based in the Philippines
 - ✉️  You can contact me at [jlorenzo1259@gmail.com](mailto:jlorenzo1259@gmail.com)
-- 🧠  I'm currently learning Node.js, Express.js, React.js & TypeScript, Tailwind and more.
+- 🧠  I'm currently learning Node.js, Express.js, React.js, TypeScript, Tailwind and more.
 - 🤝  I'm open to collaborating on any project
 
 <!-- Uncomment if you want to include the GIF -->
